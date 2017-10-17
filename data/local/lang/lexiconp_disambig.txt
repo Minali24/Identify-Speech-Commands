@@ -1,0 +1,10 @@
+<sil>	1.0	SIL
+down	1.0	d aw n
+eight	1.0	e t
+five	1.0	f aj v
+go	1.0	g o
+left	1.0	l e f t
+one	1.0	w a n
+right	1.0	r aj t
+up	1.0	a p
+zero	1.0	z i r o

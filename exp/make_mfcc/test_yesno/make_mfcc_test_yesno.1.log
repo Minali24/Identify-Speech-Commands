@@ -1,0 +1,7 @@
+# compute-mfcc-feats --verbose=2 --config=conf/mfcc.conf scp,p:exp/make_mfcc/test_yesno/wav_test_yesno.1.scp ark:- | copy-feats --compress=true ark:- ark,scp:/opt/kaldi/egs/minali/mfcc/raw_mfcc_test_yesno.1.ark,/opt/kaldi/egs/minali/mfcc/raw_mfcc_test_yesno.1.scp 
+# Started at Fri Oct  6 23:16:54 IST 2017
+#
+bash: line 1: compute-mfcc-feats: command not found
+bash: line 1: copy-feats: command not found
+# Accounting: time=0 threads=1
+# Ended (code 127) at Fri Oct  6 23:16:54 IST 2017, elapsed time 0 seconds

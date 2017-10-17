@@ -1,0 +1,14 @@
+<eps> 0
+<sil> 1
+down 2
+eight 3
+five 4
+go 5
+left 6
+one 7
+right 8
+up 9
+zero 10
+#0 11
+<s> 12
+</s> 13

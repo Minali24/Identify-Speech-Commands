@@ -1,0 +1,9 @@
+down	d
+eight	e t
+five	f aj v
+go	g o
+left	l e f t
+one	w a n
+right	r aj t
+up	a p
+zero	z i r o
